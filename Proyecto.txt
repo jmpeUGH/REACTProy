@@ -1,0 +1,21 @@
+- MINIMO 3 PAGINAS
+
+- MINIMO 4 COMPONENTES REUTILIZABLES
+
+-CONEXION CON UNA API —> useEffect
+
+-AUTENTICACION EN REACT, HACIENDO  LOGIN (datos fake dentro de react / BD y node) REGISTER  opcional
+
+-FORMULARIOS CONTROLADOS
+
+- MINIMO 1 ESTADOS USANDO USECONTEXT
+
+
+
+
+- Definir algún ruta privada (para esto necesitamos el login)
+
+
+
+
+BUENA ESTRUCTURA DE CARPETAS
